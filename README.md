@@ -5,12 +5,12 @@
   Sebastian Piaścik
   Sonia Stenzel
 
-### OPIS
+## OPIS
 
   Aplikacja internetowa do obsługi wydarzeń sportowych.
   System umożliwia zrzeszanie się ludzi w celu wspólnego uprawiania wybranej dyscypliny sportowej.
 
-### WYMAGANIA
+## WYMAGANIA
 
   * baza danych mysql
   * php >=7.1.3
@@ -18,7 +18,7 @@
   * php artisan
   * npm
 
-### URUCHIOMIENIE
+## URUCHIOMIENIE
 
   * W FOLDERZE /API
     $ composer install
