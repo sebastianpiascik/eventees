@@ -1,6 +1,6 @@
 # EVENTEES
 
-### AUTORZY
+## AUTORZY
 
   Sebastian Piaścik
   Sonia Stenzel
