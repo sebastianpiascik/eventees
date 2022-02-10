@@ -85,7 +85,7 @@
     "@types/react": "^16.8.18",
     "create-react-component-folder": "^0.1.30",
     "jquery": "^3.4.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "webpack": "^4.32.1"
   },
   "jest": {
